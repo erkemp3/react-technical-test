@@ -1,7 +1,10 @@
 import React from "react";
 import "../styles/SearchResults.css";
 
-const SearchResults = () => {
+const SearchResults = ({ results }) => {
+  if (!results.length) {
+    return <p>No results</p>;
+  }
   return (
     <>
       <p>Search Results</p>
