@@ -1,14 +1,23 @@
 .data-image {
-  width: 500px;
-  border-radius: 20px;
-  padding: 10px;
+  width: 400px;
+  border-radius: 30px;
+  padding: 15px;
   margin: auto;
   margin-top: 20px;
+  flex: auto;
 }
 
 p {
-  font-size: 20px;
+  font-size: 24px;
   margin-top: 50px;
   text-align: center;
-  text-decoration: underline;
+  font-family: "Space Mono", monospace;
+  font-weight: bold;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 20px;
 }

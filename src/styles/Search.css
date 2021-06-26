@@ -8,14 +8,16 @@
   width: 50%;
   height: 40px;
   border-radius: 11px;
-  font-size: 20px;
+  font-size: 18px;
+  font-family: "Space Mono", monospace;
   padding: 0 10px;
 }
 
 .search-form__button {
   width: 30%;
   border-radius: 11px;
-  font-size: 15px;
+  font-size: 18px;
+  font-family: "Space Mono", monospace;
   padding: 0 10px;
   margin-left: 5px;
 }
