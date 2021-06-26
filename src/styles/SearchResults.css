@@ -1,0 +1,14 @@
+.data-image {
+  width: 500px;
+  border-radius: 20px;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
