@@ -2,6 +2,8 @@
 
 This React Web application was made as part of a technical test at Manchester Codes. The app allows users to search for space-related images using a NASA API endpoint. 
 
+> Demo available [here](http://erkemp3.github.io/react-technical-test/ "here").
+
 ## Built Using:
 
 * React
