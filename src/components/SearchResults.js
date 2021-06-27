@@ -2,13 +2,13 @@ import React from "react";
 import PropTypes from "prop-types";
 import "../styles/SearchResults.css";
 
-const SearchResults = ({ results }) => {
-  if (!results) {
+const SearchResults = ({ results, hasSearched }) => {
+  if (results.length === 0 && hasSearched === false) {
     return null;
   }
-  // // if (results.length === 0) {
-  //   return <p>No results</p>;
-  // }
+  if (results.length === 0 && hasSearched === true) {
+    return <p>Sorry, no results found. Try new search!</p>;
+  }
 
   return (
     <>
