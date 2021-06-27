@@ -6,15 +6,15 @@ const SearchResults = ({ results }) => {
   if (!results) {
     return null;
   }
-  if (results.length === 0) {
-    return <p>No results</p>;
-  }
+  // // if (results.length === 0) {
+  //   return <p>No results</p>;
+  // }
+
   return (
     <>
       <div className="image-container">
         {results.map((image) => (
           <img
-            key={image.data[0].nasa_id}
             className="data-image"
             src={image}
             alt="space pics"
