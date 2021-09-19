@@ -1,28 +1,30 @@
 # NASA Image Search Engine 🔭
 
-This React Web application was made as part of a technical test at Manchester Codes. The app allows users to search for space-related images using a NASA API endpoint. 
+This React Web application was made as part of a technical test at Manchester Codes. The app allows users to search for space-related images using a NASA API endpoint.
 
 > Demo available [here](http://erkemp3.github.io/react-technical-test/ "here").
 
+<img src="../tech-test/src/images/NASA-pic.png" alt="desktop" width="700">
+
 ## Built Using:
 
-* React
-* HTML
-* CSS
-* JavaScript
-* Node.js
+- React
+- HTML
+- CSS
+- JavaScript
+- Node.js
 
 ## Tested Using:
 
-* Jest
-* React Testing Library
+- Jest
+- React Testing Library
 
 ## NPM Packages used:
 
-* Axios
-* PropTypes
+- Axios
+- PropTypes
 
-- - - -
+---
 
 ## How to install:
 
