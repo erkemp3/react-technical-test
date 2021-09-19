@@ -4,7 +4,7 @@ This React Web application was made as part of a technical test at Manchester Co
 
 > Demo available [here](http://erkemp3.github.io/react-technical-test/ "here").
 
-<img src="../tech-test/src/images/NASA-pic.png" alt="desktop" width="700">
+<img src="images/NASA-pic.png" alt="desktop" width="700">
 
 ## Built Using:
 
