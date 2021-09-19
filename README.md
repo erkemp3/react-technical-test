@@ -51,7 +51,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 The features I want to add when I have time are:
 
-- Error message when no search results are found
 - Extra CSS styling so that pictures zoom in slightly on hover
 - Ability to display images in full size in a new tab when clicked
 - Give each image a unique key prop
